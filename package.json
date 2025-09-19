@@ -1,0 +1,15 @@
+{
+  "name": "class-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synstudy/p1-task2.git"
+  },
+  "homepage": "https://github.com/synstudy/p1-task2#readme",
+  "author": "Aleksey K",
+  "license": "MIT"
+}
